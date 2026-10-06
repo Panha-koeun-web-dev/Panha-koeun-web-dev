@@ -5,7 +5,7 @@
 
   <!-- Animated Dynamic Typing -->
   <a href="https://panha-online-portflolio-sknx.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=�+Full-Stack+Web+%26+Odoo+ERP+Developer;☕+Creator+of+Prey+Lang+Coffee+POS+System;🚀+Architecting+Scalable+Business+Solutions;⚡+Laravel+•+Vue.js+•+React+•+Python+•+PostgreSQL;🌱+Always+Learning+%26+Building+Real-World+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=💼+Full-Stack+Web+%26+Odoo+ERP+Developer;🎓+Creator+of+Odoo+19+School+Management+System;☕+Creator+of+Prey+Lang+Coffee+POS+System;🚀+Architecting+Scalable+Enterprise+Solutions;⚡+Odoo+•+Python+•+OWL+•+PostgreSQL+•+Laravel;🌱+Always+Learning+%26+Building+Real-World+Apps" alt="Typing SVG" />
   </a>
 
   <br>
@@ -18,17 +18,21 @@
     <a href="mailto:panha.koeun142007@gmail.com">
       <img src="https://img.shields.io/badge/📫_Email_Me-panha.koeun142007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://github.com/Panha-koeun-web-dev/odoo/tree/first-odoo/custom/school_management">
+      <img src="https://img.shields.io/badge/🎓_Odoo_School_ERP-Repository-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo School ERP" />
+    </a>
     <a href="https://github.com/Panhakoeun">
       <img src="https://img.shields.io/badge/🐙_Secondary_Profile-Panhakoeun-181717?style=for-the-badge&logo=github&logoColor=white" alt="Secondary Profile" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=panhakoeun142007-creator&label=👁️+PROFILE+VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Panha-koeun-web-dev&label=👁️+PROFILE+VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
   </p>
 
   <!-- Interactive Quick Navigation Jump-bar -->
   <p align="center">
     <a href="#-about-me"><kbd>👤 About Me</kbd></a> •
-    <a href="#-featured-projects"><kbd>🚀 Featured Projects</kbd></a> •
-    <a href="#%EF%B8%8F-tech-arsenal"><kbd>🛠️ Tech Arsenal</kbd></a> •
+    <a href="#-flagship-odoo-school-erp"><kbd>🎓 Odoo School ERP</kbd></a> •
+    <a href="#-featured-projects"><kbd>🚀 Web Projects</kbd></a> •
+    <a href="#️-tech-arsenal"><kbd>🛠️ Tech Arsenal</kbd></a> •
     <a href="#-github-analytics"><kbd>📊 GitHub Stats</kbd></a> •
     <a href="#-lets-connect"><kbd>🌟 Connect</kbd></a>
   </p>
@@ -49,16 +53,16 @@
         I bridge the gap between complex organizational workflows and elegant, user-friendly digital products.
       </p>
       <ul>
-        <li>🔭 <strong>Current Focus:</strong> Developing custom modules for <strong>Odoo ERP</strong> & full-stack web platforms.</li>
+        <li>🔭 <strong>Current Focus:</strong> Developing custom enterprise modules for <strong>Odoo 19 ERP</strong> (including an end-to-end <strong>School Management System</strong>) & full-stack web platforms.</li>
         <li>🎓 <strong>Education & Training:</strong> Web & Software Development at <strong>Passerelles Numériques Cambodia (PNC)</strong>.</li>
-        <li>🌱 <strong>Mastering in 2026:</strong> <strong>Odoo 19</strong>, <strong>Advanced Python</strong>, & <strong>PostgreSQL Optimization</strong>.</li>
-        <li>💼 <strong>Experience:</strong> <strong>60+ repositories</strong> built across development profiles, ranging from POS systems to real-time face detection.</li>
-        <li>⚡ <strong>Philosophy:</strong> Clean architecture, robust database design, and intuitive user experiences.</li>
+        <li>🌱 <strong>Mastering in 2026:</strong> <strong>Odoo 19</strong>, <strong>OWL (Odoo Web Library)</strong>, <strong>Advanced Python</strong>, & <strong>PostgreSQL Optimization</strong>.</li>
+        <li>💼 <strong>Experience:</strong> <strong>60+ repositories</strong> built across development profiles, ranging from ERP systems and POS platforms to real-time face detection.</li>
+        <li>⚡ <strong>Philosophy:</strong> Clean architecture, robust database design, intuitive user experiences, and test-driven reliability.</li>
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/panhakoeun142007-creator">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=panhakoeun142007-creator&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" width="100%" />
+      <a href="https://github.com/Panha-koeun-web-dev">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Panha-koeun-web-dev&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" width="100%" />
       </a>
     </td>
   </tr>
@@ -74,16 +78,16 @@
       <th width="75%">Core Capabilities & Implementation</th>
     </tr>
     <tr>
-      <td><strong>🏢 ERP & Odoo</strong></td>
-      <td>Custom module development, ORM models, QWeb report customization, automated workflows, backend view inheritance, and access control management.</td>
+      <td><strong>🏢 ERP & Odoo 19</strong></td>
+      <td>Custom module development (<code>school_management</code>), ORM modeling, OWL custom UI components, interactive calendar controller patches, QWeb PDF & dynamic XLSX reporting, multi-step wizards, and granular role-based access control (RBAC).</td>
     </tr>
     <tr>
       <td><strong>⚙️ Backend & APIs</strong></td>
-      <td>RESTful API development with Laravel & Python, MVC architecture, secure JWT/Session authentication, Eloquent ORM, and middleware filters.</td>
+      <td>RESTful API development with Laravel & Python, MVC architecture, secure JWT/Session authentication, Eloquent ORM, database migrations, and middleware filters.</td>
     </tr>
     <tr>
       <td><strong>🎨 Modern Frontend</strong></td>
-      <td>Responsive SPAs using Vue.js & React, state management, component lifecycle, modern CSS with Tailwind, and mobile-friendly design.</td>
+      <td>Responsive SPAs using Vue.js & React, state management (Pinia/Vuex), component lifecycle, modern CSS with Tailwind, and mobile-friendly design.</td>
     </tr>
     <tr>
       <td><strong>🗄️ Database Design</strong></td>
@@ -96,16 +100,113 @@
   <summary><strong>🎯 Click to expand: Current 2026 Goals & Active Milestones</strong></summary>
   <br>
   <ul>
-    <li>🚀 <strong>Odoo 19:</strong> Deep diving into OWL (Odoo Web Library) and cloud deployments for business clients.</li>
-    <li>☁️ <strong>DevOps & Cloud:</strong> Expanding containerized microservices deployment with Docker and Amazon AWS.</li>
-    <li>📈 <strong>Open Source:</strong> Publishing reusable starter kits and modules for the developer community.</li>
+    <li>🚀 <strong>Odoo 19 Mastery:</strong> Expanding OWL (Odoo Web Library) interactive components, automated workflows, and cloud deployments for business clients.</li>
+    <li>☁️ <strong>DevOps & Cloud:</strong> Containerized microservices deployment with Docker, Render, and Amazon AWS.</li>
+    <li>📈 <strong>Open Source & Community:</strong> Publishing reusable starter kits, business modules, and enterprise ERP tools.</li>
   </ul>
 </details>
 
 ---
 
+<a name="-flagship-odoo-school-erp"></a>
+### 🌟 Flagship ERP Project: Odoo 19 Individual School Management System
+
+<div align="center">
+  <a href="https://github.com/Panha-koeun-web-dev/odoo/tree/first-odoo/custom/school_management">
+    <img src="assets/project-school-management.png" width="100%" style="border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Odoo 19 School Management System ERP Dashboard" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Odoo_19.0-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo 19" />
+  <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/OWL_Dashboard-F59E0B?style=for-the-badge&logo=javascript&logoColor=white" alt="OWL" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/XLSX_Engine-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/QWeb_Reports-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="QWeb PDF" />
+  <img src="https://img.shields.io/badge/License-LGPL--3-green?style=for-the-badge" alt="LGPL-3" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/Panha-koeun-web-dev/odoo/tree/first-odoo/custom/school_management">
+    <img src="https://img.shields.io/badge/💻_Module_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Module Source Code" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Panha-koeun-web-dev/odoo/blob/first-odoo/SCHOOL_MANAGEMENT_SYSTEM.md">
+    <img src="https://img.shields.io/badge/📖_Run_Guide_&_Docs-0284C7?style=for-the-badge&logo=readme&logoColor=white" alt="Run Guide" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Panha-koeun-web-dev/odoo/tree/first-odoo">
+    <img src="https://img.shields.io/badge/🌿_Odoo_Branch_(first--odoo)-714B67?style=for-the-badge&logo=git&logoColor=white" alt="Git Branch" />
+  </a>
+</p>
+
+<p>
+  A comprehensive, production-grade <strong>Individual School Management ERP System</strong> custom-built for <strong>Odoo 19</strong>. This end-to-end institutional solution streamlines academic administration, faculty coordination, student lifecycle tracking, dynamic scheduling, tuition finance, and executive reporting into a unified, modular architecture.
+</p>
+
+<details open>
+  <summary><strong>✨ Key Features & Technical Architecture</strong></summary>
+  <br>
+
+  <table>
+    <tr>
+      <th width="32%">Module / Subsystem</th>
+      <th width="68%">Technical Capabilities & Implementations</th>
+    </tr>
+    <tr>
+      <td><strong>🎓 Student Lifecycle & Admissions</strong></td>
+      <td>Full student master records (<code>school.student</code>), automatic ID generation, enrollment workflows, major selection, photo management, guardian details, and academic state tracking.</td>
+    </tr>
+    <tr>
+      <td><strong>👨‍🏫 Faculty & Teaching Assignments</strong></td>
+      <td>Teacher profile records (<code>school.teacher</code>), teaching assignments (<code>school.teaching.assignment</code>), workload distribution, subject allocations, and departmental management.</td>
+    </tr>
+    <tr>
+      <td><strong>📅 Dynamic Timetable & Calendar</strong></td>
+      <td>Integrated weekly timetable schedules (<code>school.timetable</code>) powered by custom <strong>OWL Calendar Controller Patches</strong> (<code>calendar_controller_patch.js</code>), conflict detection, term schedule wizards, and week selectors.</td>
+    </tr>
+    <tr>
+      <td><strong>⏱️ Attendance & Permission Requests</strong></td>
+      <td>Automated daily attendance wizard (<code>school.daily.attendance</code>), session tracking, student leave/permission pipeline (<code>school.permission</code>) with multi-stage approval/rejection workflows.</td>
+    </tr>
+    <tr>
+      <td><strong>📝 Exams, Grading & Transcripts</strong></td>
+      <td>Exam schedules (<code>school.exam</code>), student selection wizards, automated GPA and academic metric computation engines, official transcript generators, and completion certificates with rejection wizards.</td>
+    </tr>
+    <tr>
+      <td><strong>💰 Tuition, Fees & Financial Tracking</strong></td>
+      <td>Multi-term fee definitions (<code>school.fee</code>), installment tracking, year payment management (<code>school.year.payment</code>), payment vouchers, and instant receipt generation.</td>
+    </tr>
+    <tr>
+      <td><strong>📊 Custom OWL Analytics Dashboard</strong></td>
+      <td>Built with <strong>OWL (Odoo Web Library)</strong> and <strong>Chart.js</strong> (<code>school_dashboard.js</code>), delivering real-time KPI metrics, enrollment distribution charts, teacher counts, and attendance rate statistics.</td>
+    </tr>
+    <tr>
+      <td><strong>📑 Dual Reporting Engine (PDF + XLSX)</strong></td>
+      <td>
+        • <strong>QWeb PDF:</strong> Student ID cards, official transcripts, attendance sheets, receipts, and certificates.<br>
+        • <strong>Dynamic XLSX:</strong> Custom Excel export wizard (<code>school_xlsx_report.py</code>) for institutional data analysis.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🛡️ Granular Security & Automated Tests</strong></td>
+      <td>
+        • <strong>Role-Based Access Control:</strong> Strict group permissions (<code>school_security.xml</code>, <code>ir.model.access.csv</code>) across School Admin, Teachers, and Students.<br>
+        • <strong>Test-Driven Suite:</strong> 9+ automated test suites covering visibility rules, schedules, permissions, and report generation.
+      </td>
+    </tr>
+  </table>
+
+</details>
+
+---
+
 <a name="-featured-projects"></a>
-### 🚀 Featured Projects
+### 🚀 Featured Web Projects
 
 <table align="center" width="100%">
   <tr>
@@ -125,16 +226,16 @@
       </p>
       <p align="center">
         <a href="https://prey-lang-coffee-pos-system.vercel.app/">
-          <img src="https://img.shields.io/badge/�_Live_Demo-0284C7?style=for-the-badge&logoColor=white" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-0284C7?style=for-the-badge&logoColor=white" alt="Live Demo" />
         </a>
-        <a href="https://github.com/panhakoeun142007-creator/PREY-LANG-COFFEE-POS-SYSTEM">
+        <a href="https://github.com/Panha-koeun-web-dev/PREY-LANG-COFFEE-POS-SYSTEM">
           <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://krousar-thmey.sreydeth.site/">
-        <img src="assets/project1.png" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Krousar Tmey Website" />
+        <img src="assets/project1.png" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Krousar Tmey Community Website" />
       </a>
       <h3 align="center">🏛️ Krousar Tmey Community Website</h3>
       <p align="center">
@@ -160,7 +261,7 @@
 
 ---
 
-<a name="%EF%B8%8F-tech-arsenal"></a>
+<a name="️-tech-arsenal"></a>
 ### 🛠️ Tech Arsenal & Skills Matrix
 
 <div align="center">
@@ -187,7 +288,8 @@
   <tr>
     <td><strong>⚙️ ERP & Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+      <img src="https://img.shields.io/badge/Odoo_19_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+      <img src="https://img.shields.io/badge/OWL_(Odoo_Web_Lib)-F59E0B?style=flat-square&logo=javascript&logoColor=white" alt="OWL" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -234,13 +336,13 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <a href="https://github.com/panhakoeun142007-creator">
-          <img src="https://github-stats-extended.vercel.app/api?username=panhakoeun142007-creator&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&rank_icon=github" alt="Panha's GitHub Stats" />
+        <a href="https://github.com/Panha-koeun-web-dev">
+          <img src="https://github-stats-extended.vercel.app/api?username=Panha-koeun-web-dev&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&rank_icon=github" alt="Panha's GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/panhakoeun142007-creator">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=panhakoeun142007-creator&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=ffffff" alt="Panha's Streak Stats" />
+        <a href="https://github.com/Panha-koeun-web-dev">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panha-koeun-web-dev&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=ffffff" alt="Panha's Streak Stats" />
         </a>
       </td>
     </tr>
@@ -265,8 +367,8 @@
     <img src="https://img.shields.io/badge/Gmail-panha.koeun142007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/panhakoeun142007-creator">
-    <img src="https://img.shields.io/badge/Main_GitHub-panhakoeun142007--creator-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub" />
+  <a href="https://github.com/Panha-koeun-web-dev">
+    <img src="https://img.shields.io/badge/Main_GitHub-Panha--koeun--web--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub" />
   </a>
   &nbsp;
   <a href="https://github.com/Panhakoeun">
@@ -279,4 +381,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,35:1e293b,70:0284c7,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
-
