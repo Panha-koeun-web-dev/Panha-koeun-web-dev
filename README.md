@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,35:1e293b,70:0284c7,100:38bdf8&height=220&section=header&text=Panha%20Koeun&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Web%20%7C%20Odoo%20ERP%20Developer&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Panha Koeun Header" />
 
   <!-- Animated Dynamic Typing -->
-  <a href="https://panha-online-portflolio-sknx.vercel.app/">
+  <a href="https://panha-koeun-portfolio.vercel.app/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=💼+Full-Stack+Web+%26+Odoo+ERP+Developer;🎓+Creator+of+Odoo+19+School+Management+System;☕+Creator+of+Prey+Lang+Coffee+POS+System;🚀+Architecting+Scalable+Enterprise+Solutions;⚡+Odoo+•+Python+•+OWL+•+PostgreSQL+•+Laravel;🌱+Always+Learning+%26+Building+Real-World+Apps" alt="Typing SVG" />
   </a>
 
@@ -12,7 +12,7 @@
 
   <!-- Quick Status & Profile Visitors -->
   <p align="center">
-    <a href="https://panha-online-portflolio-sknx.vercel.app/">
+    <a href="https://panha-koeun-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-0284C7?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
     </a>
     <a href="mailto:panha.koeun142007@gmail.com">
@@ -331,7 +331,7 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/Panha-koeun-web-dev">
-          <img src="https://github-stats-extended.vercel.app/api?username=Panha-koeun-web-dev&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&rank_icon=github" alt="Panha's GitHub Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=Panha-koeun-web-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&rank_icon=github" alt="Panha's GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="middle">
@@ -353,7 +353,7 @@
 </p>
 
 <div align="center">
-  <a href="https://panha-online-portflolio-sknx.vercel.app/">
+  <a href="https://panha-koeun-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Personal_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
