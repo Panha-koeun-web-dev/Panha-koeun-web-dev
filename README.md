@@ -211,7 +211,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://prey-lang-coffee-pos-system.vercel.app/">
+      <a href="https://github.com/Panha-koeun-web-dev/PREY-LANG-COFFEE-POS-SYSTEM">
         <img src="assets/project2.png" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Prey Lang Coffee POS System" />
       </a>
       <h3 align="center">☕ Prey Lang Coffee POS System</h3>
@@ -225,16 +225,13 @@
         A fast, responsive <strong>Point of Sale (POS) and inventory management system</strong> built for coffee shop operations. Features rapid order processing, item catalog, receipts, and live sales monitoring.
       </p>
       <p align="center">
-        <a href="https://prey-lang-coffee-pos-system.vercel.app/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-0284C7?style=for-the-badge&logoColor=white" alt="Live Demo" />
-        </a>
         <a href="https://github.com/Panha-koeun-web-dev/PREY-LANG-COFFEE-POS-SYSTEM">
-          <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+          <img src="https://img.shields.io/badge/💻_Project_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Project Repository" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://krousar-thmey.sreydeth.site/">
+      <a href="https://github.com/Krousar-Tmey-Website/yonyen-sys-Krousar-Tmey-Website">
         <img src="assets/project1.png" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Krousar Tmey Community Website" />
       </a>
       <h3 align="center">🏛️ Krousar Tmey Community Website</h3>
@@ -248,11 +245,8 @@
         A community and educational web platform built for <strong>Krousar Tmey organization</strong> to highlight cultural heritage, inclusive educational programs, and youth initiatives with a modern responsive UI.
       </p>
       <p align="center">
-        <a href="https://krousar-thmey.sreydeth.site/">
-          <img src="https://img.shields.io/badge/🚀_Live_Site-0284C7?style=for-the-badge&logoColor=white" alt="Live Site" />
-        </a>
         <a href="https://github.com/Krousar-Tmey-Website/yonyen-sys-Krousar-Tmey-Website">
-          <img src="https://img.shields.io/badge/💻_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+          <img src="https://img.shields.io/badge/💻_Project_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Project Repository" />
         </a>
       </p>
     </td>
